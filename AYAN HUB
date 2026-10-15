@@ -1134,7 +1134,7 @@ LifeTogetherTab:Button({
     Title = "AYAN OUTFIT COPIER PREMIUM 🤩 (ONLY FOR LIFE TOGETHER ☄️)GUI✌🏻",
     Desc = "Click to open the outfit copier GUI",
     Callback = function()
-        loadstring(game:HttpGet(("https://raw.githubusercontent.com/MANASMCPE/FiTcopierDeobfByMonK/refs/heads/main/deobfuscated_by_MONK.lua"),true))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/ayanjaveed503-a11y/AYAN-OUTFIT-STEALER/refs/heads/main/AYAN%20OUTFIT%20STEALER"))()
     end,
 })
 
