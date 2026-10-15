@@ -1,8 +1,7 @@
 --// MONK HUB V1 - WindUI Interface
 
 local WindUI = loadstring(game:HttpGet(
-    "https://github.com/Footagesus/WindUI/releases/latest/download/main.lua"
-))()
+    "https://github.com/Footagesus/WindUI/releases/latest/download/main.lua"))()
 
 local Window = WindUI:CreateWindow({
     Title = "MONK HUB V1",
