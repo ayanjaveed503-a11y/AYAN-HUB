@@ -1120,7 +1120,7 @@ SpamTab:Button({
     Title = "AYAN EDITION SPAM 👑",
     Desc = "Click to execute the ultimate VIP Spammer!",
     Callback = function()
-        loadstring(game:HttpGet(("https://raw.githubusercontent.com/MANASMCPE/Spam/refs/heads/main/SAPMM.lua"),true))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/ayanjaveed503-a11y/AYAN-SPAM/refs/heads/main/AYAN%20SPAM"),true))()
     end,
 })
 
