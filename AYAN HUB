@@ -1142,7 +1142,7 @@ LifeTogetherTab:Button({
     Title = "AYAN 🦁 ULTIMATE TRAPPING 🌪️",
     Desc = "Click to open the Ultimate Pyramid Trap GUI",
     Callback = function()
-        loadstring(game:HttpGet(("https://raw.githubusercontent.com/MANASMCPE/LIFETOGETHERRPSCRIPTOPENSLURCE-/refs/heads/main/trap.lua"),true))()
+        loadstring(game:HttpGet(("https://raw.githubusercontent.com/ayanjaveed503-a11y/AYAN-HUB-TRAP-CHAIR/refs/heads/main/AYAN%20HUB%20TRAP%20CHAIR"),true))()
     end,
 })
 
