@@ -1264,7 +1264,7 @@ WindUI:Notify({
 })
 --// AUTO CHAT MESSAGE
 task.spawn(function()
-    local chatMsg = "------------////AYAN HUB V1 LOADED 👿🌊 Made by AYAN 🦁 (AYANSCRIPTS)////-----------------"
+    local chatMsg = "------------////AYAN HUB V1 LOADED 👿🔪 Made by AYAN 😎 (AYANSCRIPTS)////-----------------"
     pcall(function()
         if game:GetService("TextChatService").ChatVersion == Enum.ChatVersion.TextChatService then
             game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(chatMsg)
