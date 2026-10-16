@@ -6,8 +6,8 @@ local messages = {
     "『🩸』🔥 AYAN HUB LOADED 🔥 『🩸』",
     "『😎』👑 OWNERHUB:AYAN 👑『😎』",
     "『💀』💥 AYAN PAPA SERVER MA ENTER HOGYE BETA AB TUMARA KIA HOGA AB 💥『💀』",
-    " 🔝 ZERO MERCY ON TOP BRO 🔝『👿』 SOMETIMES TO LOAD", -- Added right below -pd
-    " 💀AB SAB KA KHEL KHATAM 💀"
+    " 🔝 ZERO MERCY ON TOP BRO 🔝『👿』 YE SCRIPT APKE PAPA NE BANAYAI😎", -- Added right below -pd
+    "『⚡』💀AB SAB KA KHEL KHATAM 💀『⚡』"
 }
 
 -- Function to safely send chat messages across different Roblox chat systems
